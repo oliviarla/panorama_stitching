@@ -6,6 +6,7 @@
 - 4장이 넘어갈 경우 에러 발생
 
 참고
+
 https://bugsdb.com/_ko/debug/0c935bef675ac37eee3db57bfcb21b0f
 
 https://github.com/kushalvyas/Python-Multiple-Image-Stitching
